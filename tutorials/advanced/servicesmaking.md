@@ -76,7 +76,7 @@ $ ls $HOME/.eris/keys/data
 
 ## Convert your key
 
-This next command makes a priv validator in the tendermint format needed to boot a chain. (Note: this step will soon be deprecated in favour of adding the pubkey to the config file.) Let's pipe it to the chain diectoryr and give it its file name:
+This next command makes a priv validator in the tendermint format needed to boot a chain. (Note: this step will soon be deprecated in favour of adding the pubkey to the config file.) Let's pipe it to the chain directory and give it its file name:
 
 ```bash
 $ eris keys convert $ADDR > $CHAIN_DIR/priv_validator.json
