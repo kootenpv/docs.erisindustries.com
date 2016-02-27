@@ -1075,4 +1075,4 @@ There is also the matter of trust, but I treat that in the beginning of the docu
 
 ### Coming next
 
-In part 2 we will look at an architecture that is more general then the one we created here. I call it an "action driven architecture", and it is based on the architecture I used for "The People's Republic of Doug". This will be published fairly soon, as most of it is already written.
+In [part 2](https://docs.erisindustries.com/tutorials/solidity/solidity-2/) we will look at an architecture that is more general then the one we created here. I call it an "action driven architecture", and it is based on the architecture I used for "The People's Republic of Doug". This will be published fairly soon, as most of it is already written.
